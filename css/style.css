@@ -152,3 +152,9 @@ footer {
 a {
   color: #00b09b;
 }
+img {
+  width: 100%;
+  height: 50vh;
+  object-fit: cover;
+  object-position: center top
+}
