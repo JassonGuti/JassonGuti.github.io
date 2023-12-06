@@ -133,3 +133,8 @@ img {
 h2 {
   padding: 0px 20px;
 }
+@media all and (max-width:700px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+}
